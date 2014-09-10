@@ -1,0 +1,46 @@
+/*
+ * Project Riese
+ */
+An evil, alien race threatens to destroy all life on Earth. Only way to stop them, is to find powerful artifacts, that belonged to an ancient hero, and use them against the invaders.
+
+/*
+ * World I - Forest
+ */
+Hero starts in a forest, pushing through a green scenery full of deadly animals.
+
+Hero arrives at a ruined arena, where he fights an Artifact Guardian.
+
+When boss dies, hero picks up Ancient Weapon.
+
+After picking up item, floor crumbles and hero falls into the caves.
+
+/*
+ * World II - Cave
+ */
+Hero falls into a cave full of aliens.
+
+Deep into the caverns, hero finds Big Alien.
+
+When boss dies, hero picks up Ancient Armor.
+
+Killing the boss reveals underground entrance to the military base.
+
+/*
+ * World III - Base
+ */
+Base is overrun by aliens and full of mutated soldiers.
+
+In the hangar, hero fighs a Tank.
+
+When boss dies, hero picks up Ancient Helm.
+
+Three artifacts ressurects Ancient Hero, who turns out to be corrupted. Ancient Hero flees to to the alien spaceship. Hero enters a rocket to chase enemy.
+
+/*
+ * World IV - Spaceship
+ */
+Hero fights through enemy spaceship to reach the bridge.
+
+On the bridge, hero fights Ancient Hero.
+
+When boss is defeated, hero turns into new Electro Man.
