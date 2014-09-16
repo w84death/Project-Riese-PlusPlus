@@ -14,7 +14,7 @@ When boss dies, hero picks up Ancient Weapon.
 
 After picking up item, floor crumbles and hero falls into the caves.
 
-Enemies: jump rat, fat rat, explosive spider, toxic shrooms??
+Enemies: jump rat, fat rat, explosive spider, mine, toxic shrooms??
 Boss: worker
 
 /*
@@ -28,7 +28,7 @@ When boss dies, hero picks up Ancient Armor.
 
 Killing the boss reveals underground entrance to the military base.
 
-Enemies: aliens - base, light armour, heavy armour, commander, fisher man, toxic shrooms
+Enemies: aliens - base, light armour, heavy armour, commander, fisher man, mine, toxic shrooms
 Boss: alien in flying sauser??
 
 /*
@@ -54,5 +54,5 @@ On the bridge, hero fights Ancient Hero.
 
 When boss is defeated, hero turns into new Electro Man.
 
-Enemies: smth like creatures from electrobody
+Enemies: smth like creatures from electrobody - bipod
 Boss: Electro man??
