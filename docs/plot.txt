@@ -14,6 +14,9 @@ When boss dies, hero picks up Ancient Weapon.
 
 After picking up item, floor crumbles and hero falls into the caves.
 
+Enemies: jump rat, fat rat, explosive spider, toxic shrooms??
+Boss: worker
+
 /*
  * World II - Cave
  */
@@ -24,6 +27,9 @@ Deep into the caverns, hero finds Big Alien.
 When boss dies, hero picks up Ancient Armor.
 
 Killing the boss reveals underground entrance to the military base.
+
+Enemies: aliens - base, light armour, heavy armour, commander, fisher man, toxic shrooms
+Boss: alien in flying sauser??
 
 /*
  * World III - Base
@@ -36,6 +42,9 @@ When boss dies, hero picks up Ancient Helm.
 
 Three artifacts ressurects Ancient Hero, who turns out to be corrupted. Ancient Hero flees to to the alien spaceship. Hero enters a rocket to chase enemy.
 
+Enemies: soldiers??, robocop, ??
+Boss: tank
+
 /*
  * World IV - Spaceship
  */
@@ -44,3 +53,6 @@ Hero fights through enemy spaceship to reach the bridge.
 On the bridge, hero fights Ancient Hero.
 
 When boss is defeated, hero turns into new Electro Man.
+
+Enemies: smth like creatures from electrobody
+Boss: Electro man??
